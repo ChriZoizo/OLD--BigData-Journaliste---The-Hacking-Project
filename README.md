@@ -1,4 +1,6 @@
-Salut a toi visiteur du future
-Ceci est mon repository contenant mes exercices de THP
-mais d'un coté si tu lis ceci, c'est que tu n'est pas completement debile et que tu le sait deja
-donc sur ce, je te souhaite une bonne crrection ^^ BRO !
+Repository contenant le resultat d'exercices en Ruby portant sur les Array et les Hash.
+Apprendre a y retrouver des valeurs, faire des boucles, etc...
+
+Niveau basique
+
+PS: commentaires a finir
